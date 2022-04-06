@@ -38,6 +38,7 @@ nav ul {
   font-size: 1.125rem;
   list-style: none;
   justify-content: flex-end;
+  margin: auto;
 }
 
 nav a {
